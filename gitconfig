@@ -1,0 +1,14 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = 
+	email = 
+	signingkey = 
+[commit]
+	gpgsign = true
+[gpg]
+	program = /usr/bin/gpg
+[core]
+	excludesfile = $HOME/.gitignore
+[http]
+	followRedirects = 1
