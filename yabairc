@@ -19,6 +19,3 @@ yabai -m config mouse_follows_focus off
 
 yabai -m config window_opacity off
 
-
-# bar settings
-yabai -m config status_bar on
