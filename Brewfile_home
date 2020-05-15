@@ -1,0 +1,68 @@
+tap "alecthomas/tap"
+tap "caffix/amass"
+tap "go-swagger/go-swagger"
+tap "golangci/tap"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "linuxkit/linuxkit"
+tap "txn2/tap"
+tap "versent/taps"
+brew "autoconf"
+brew "automake"
+brew "bash-completion"
+brew "bettercap"
+brew "certbot"
+brew "cmake"
+brew "dive"
+brew "cntlm"
+brew "fzf"
+brew "ffsend"
+brew "gflags"
+brew "gnu-tar"
+brew "go"
+brew "gopass"
+brew "htop"
+brew "helm"
+brew "hugo"
+brew "libtool"
+brew "jq"
+brew "kubernetes-cli"
+brew "kubectx"
+brew "mas"
+brew "minikube", link: false
+brew "neofetch"
+brew "nmap"
+brew "pkg-config"
+brew "python"
+brew "pyenv-virtualenv"
+brew "ranger"
+brew "ripgrep"
+brew "skaffold"
+brew "stern"
+brew "socat"
+brew "sops"
+brew "spotify-tui"
+brew "stern"
+brew "tmux"
+brew "watch"
+brew "wget"
+brew "wrk"
+brew "ytop"
+brew "caffix/amass/amass"
+brew "go-swagger/go-swagger/go-swagger"
+brew "golangci/tap/golangci-lint"
+brew "linuxkit/linuxkit/linuxkit", args: ["HEAD"]
+brew "txn2/tap/kubefwd"
+cask "buttercup"
+cask "minikube"
+mas "1Password 7", id: 1333542190
+mas "Amphetamine", id: 937984704
+mas "Keynote", id: 409183694
+mas "NordVPN IKE", id: 1116599239
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Slack", id: 803453959
+mas "The Unarchiver", id: 425424353
+mas "WhatsApp", id: 1147396723
+mas "WiFi Signal", id: 525912054
